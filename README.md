@@ -1,6 +1,6 @@
 # Projeto_ModeloDescritivo
 
-Projeto referente a disciplina de Modelos de Dados 2 : Modelos Descritivos do curso de Pós Graduação de Análise e Engenharia de Dados do Cesar School.
+Projeto referente a disciplina de Modelos de Dados 2 : Modelos Prescritivos do curso de Pós Graduação de Análise e Engenharia de Dados do Cesar School.
 
 Nome: Anderson do Nascimento Quaresma.
 

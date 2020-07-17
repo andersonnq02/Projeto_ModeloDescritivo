@@ -1,4 +1,4 @@
-# Projeto_ModeloDescritivo
+# Projeto_ModeloPrescritivo
 
 Projeto referente a disciplina de Modelos de Dados 2 : Modelos Prescritivos do curso de Pós Graduação de Análise e Engenharia de Dados do Cesar School.
 
